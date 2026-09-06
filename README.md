@@ -11,6 +11,7 @@ I design and build the infrastructure through which complex decisions get made u
 * **Agent Runtimes & Execution Security:** seccomp-bpf system call filtering, POSIX process boundaries, resource budgeting, MCP orchestration, deterministic execution containers.
 * **Spatial & Actuarial Modeling:** Sub-kilometer wildfire/flood accumulation grids, $25M+ PML exposure modeling, high-speed spatial indexing, catastrophe underwriting infrastructure.
 * **Decision Infrastructure & Data Internals:** Reusable decision engines under uncertainty, event-driven state evaluation, zero-leakage enterprise boundaries, high-performance C++/Python data kernels.
+* **Distributed Fleet & Agent Orchestration:** Heterogeneous multi-node compute coordination, RPC/event messaging buses across cloud and local nodes, deterministic state graphs, and zero-trust boundary governance.
 
 ---
 
