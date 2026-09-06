@@ -27,6 +27,7 @@ Working on low-level correctness, isolation boundaries, and spatial kernels in t
 
 ### Links
 
+* **Live Systems Project Board:** [github.com/users/connerkup/projects/1](https://github.com/users/connerkup/projects/1)
 * **Portfolio:** [connerkupferberg.com](https://connerkupferberg.com)
 * **GitHub:** [@connerkup](https://github.com/connerkup)
 * **LinkedIn:** [linkedin.com/in/connerkupferberg](https://www.linkedin.com/in/connerkupferberg/)
