@@ -19,7 +19,7 @@ I design and build the infrastructure through which complex decisions get made u
 
 Working on low-level correctness, isolation boundaries, and spatial kernels in the broader ecosystem:
 
-* **[DuckDB Spatial](https://github.com/duckdb/duckdb-spatial)**: Resolving WAL replay non-flat vector appends in RTREE index checkpointing ([#864](https://github.com/duckdb/duckdb-spatial/pull/864) — verified 20/20 cross-platform CI).
+* **[DuckDB Spatial](https://github.com/duckdb/duckdb-spatial)**: Guarding zero-length lines, NaN fractions, and degenerate segments in linear referencing ([#865](https://github.com/duckdb/duckdb-spatial/pull/865)), alongside WAL-replayed RTREE append isolation ([#864](https://github.com/duckdb/duckdb-spatial/pull/864)).
 * **[Anthropic Sandbox Runtime](https://github.com/anthropics/sandbox-runtime)**: Hardening container write boundaries ([#518](https://github.com/anthropics/sandbox-runtime/pull/518)) and designing eBPF supervisor monitors for read violation auditing ([#511](https://github.com/anthropics/sandbox-runtime/issues/511)).
 * **[OasisLMF](https://github.com/OasisLMF/OasisLMF)**: Automatic CRS reprojection for multi-peril risk accumulation in RTREE spatial joins ([#2138](https://github.com/OasisLMF/OasisLMF/pull/2138)).
 * **[Model Context Protocol](https://github.com/modelcontextprotocol/python-sdk)**: POSIX process isolation and resource limits for host-supervised stdio servers ([#3457](https://github.com/modelcontextprotocol/python-sdk/issues/3457)).
